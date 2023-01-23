@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 50px;
+    box-sizing: border-box;
+
+    font-family: 'SF Pro Display';
+    background-color: #111;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /* align-items: center; */
+}
+
+input {
+    color: inherit;
+}
